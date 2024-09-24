@@ -1,0 +1,9 @@
+{
+  "name": "1-dep-5-dev-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  }
+}
