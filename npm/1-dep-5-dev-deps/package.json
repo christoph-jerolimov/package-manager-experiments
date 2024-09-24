@@ -1,0 +1,14 @@
+{
+  "name": "1-dep-5-dev-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "base64-js": "^1.5.1"
+  }
+}
