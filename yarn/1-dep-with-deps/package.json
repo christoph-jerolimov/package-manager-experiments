@@ -1,0 +1,9 @@
+{
+  "name": "1-dep-with-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
